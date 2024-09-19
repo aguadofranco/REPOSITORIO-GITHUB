@@ -1,2 +1,5 @@
 # TecoNET
 www.teconet.com.ar
+
+Descripcion:
+"I'm a rookie developer 💻 working with Python 🐍 and other languages, with a great passion for networking 🌐 and I have my own ISP 🚀!"
