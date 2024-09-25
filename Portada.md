@@ -6,15 +6,15 @@
 ***
 Tabla de contenido:
 
-- [Sobre mi](#poco)
+- [Sobre mi](#--un-poco-sobre-mi-)
 - [Mail](#mail)
 - [Link a TecoNET](#web)
 
 
 ***
->
-## - *Un poco sobre mi* :
->
+
+## <div align="center"> - *Un poco sobre mi* :</div>
+
 ### - Propietario en TecoNET
 #### *Internet & Redes*
 - Proveedor de servicios de internet
@@ -26,11 +26,11 @@ Tabla de contenido:
 - Gestion comercial y administrativa.
 >
 ***
-| Cantidad | Descripcion | Precio |
-| -------- | ----------- | ------ |
-| 1        | Taza        | $100   |
-| 2        | Taza        | $200   |
-| 3        | Taza        | $300   |
+| ***Cantidad*** | ***Descripcion*** | ***Precio*** |
+| -------------- | ----------------- | ------------ |
+| 1              | Taza              | $100         |
+| 2              | Taza              | $200         |
+| 3              | Taza              | $300         |
 ---
 
 ```python
