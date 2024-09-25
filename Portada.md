@@ -28,16 +28,18 @@ Tabla de contenido:
 ***
 | Cantidad | Descripcion | Precio |
 | -------- | ----------- | ------ |
+| 1        | Taza        | $100   |
+| 2        | Taza        | $200   |
+| 3        | Taza        | $300   |
 ---
 
-~~~
 ```python
 
 def pepa() :
     print ("Tengo una perra que se llama Pepa")
+```
 
 
-~~~
 ***
 # *Pagina Web TecoNET* :
 [ Ir a mi pagina web de TecoNET ](https://www.teconet.com.ar)
